@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mainLayout"],{"8a3a":function(a,t,n){"use strict";n.r(t);var e=n("7a23"),o={class:"main-layout container mx-auto my-auto"};function c(a,t,n,c,r,u){var i=Object(e["z"])("router-view");return Object(e["t"])(),Object(e["g"])("div",o,[Object(e["j"])(i)])}var r={name:"mainLayout"},u=n("6b0d"),i=n.n(u);const s=i()(r,[["render",c]]);t["default"]=s}}]);
+//# sourceMappingURL=mainLayout.a57ce057.js.map
